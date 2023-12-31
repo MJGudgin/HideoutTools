@@ -1,0 +1,3242 @@
+﻿{
+  "version": 1,
+  "language": "English",
+  "hideout_name": "Vast Plains Hideout",
+  "hideout_hash": 5889,
+  "doodads": {
+    "Stash": {
+      "hash": 3230065491,
+      "x": 362,
+      "y": 414,
+      "r": 0,
+      "fv": 0
+    },
+    "Guild Stash": {
+      "hash": 139228481,
+      "x": 352,
+      "y": 414,
+      "r": 0,
+      "fv": 0
+    },
+    "Waypoint": {
+      "hash": 1224707366,
+      "x": 357,
+      "y": 357,
+      "r": 0,
+      "fv": 0
+    },
+    "Crafting Bench": {
+      "hash": 2059629901,
+      "x": 414,
+      "y": 357,
+      "r": 0,
+      "fv": 0
+    },
+    "Map Device": {
+      "hash": 2306038834,
+      "x": 299,
+      "y": 357,
+      "r": 0,
+      "fv": 0
+    },
+    "Horticrafting Station": {
+      "hash": 1523447611,
+      "x": 416,
+      "y": 384,
+      "r": 49151,
+      "fv": 0
+    },
+    "Heist Locker": {
+      "hash": 1894447409,
+      "x": 386,
+      "y": 414,
+      "r": 0,
+      "fv": 0
+    },
+    "Expedition Locker": {
+      "hash": 1655178506,
+      "x": 405,
+      "y": 415,
+      "r": 0,
+      "fv": 0
+    },
+    "Einhar": {
+      "hash": 2684274993,
+      "x": 357,
+      "y": 347,
+      "r": 32768,
+      "fv": 0
+    },
+    "Alva": {
+      "hash": 2115859440,
+      "x": 357,
+      "y": 347,
+      "r": 36124,
+      "fv": 0
+    },
+    "Helena": {
+      "hash": 845403974,
+      "x": 357,
+      "y": 347,
+      "r": 39479,
+      "fv": 0
+    },
+    "Niko": {
+      "hash": 2906227343,
+      "x": 362,
+      "y": 348,
+      "r": 43325,
+      "fv": 0
+    },
+    "Jun": {
+      "hash": 3992724805,
+      "x": 362,
+      "y": 348,
+      "r": 47093,
+      "fv": 0
+    },
+    "Sister Cassia": {
+      "hash": 10623884,
+      "x": 362,
+      "y": 348,
+      "r": 50191,
+      "fv": 0
+    },
+    "Kirac": {
+      "hash": 2913423765,
+      "x": 362,
+      "y": 348,
+      "r": 57344,
+      "fv": 0
+    },
+    "Dannig, Warrior Skald": {
+      "hash": 2615294807,
+      "x": 362,
+      "y": 348,
+      "r": 61173,
+      "fv": 0
+    },
+    "Gwennen, the Gambler": {
+      "hash": 2818582618,
+      "x": 362,
+      "y": 348,
+      "r": 64496,
+      "fv": 0
+    },
+    "Tujen, the Haggler": {
+      "hash": 1546641971,
+      "x": 362,
+      "y": 348,
+      "r": 2058,
+      "fv": 0
+    },
+    "Rog, the Dealer": {
+      "hash": 1791193999,
+      "x": 362,
+      "y": 348,
+      "r": 5826,
+      "fv": 0
+    },
+    "The Last to Die": {
+      "hash": 1079829134,
+      "x": 362,
+      "y": 348,
+      "r": 9672,
+      "fv": 0
+    },
+    "Lilly Roth": {
+      "hash": 261160331,
+      "x": 362,
+      "y": 348,
+      "r": 13028,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 153,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 173,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 193,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 213,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 233,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 253,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 273,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 293,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 313,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 333,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 353,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 373,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 393,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 413,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 433,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 453,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 473,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 493,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 513,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 533,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 153,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 173,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 193,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 213,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 233,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 253,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 273,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 293,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 313,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 333,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 353,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 373,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 393,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 413,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 433,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 453,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 473,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 493,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 513,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 533,
+      "r": 0,
+      "fv": 0
+    },
+    "Ancient Vessel": {
+      "hash": 4112801366,
+      "x": 553,
+      "y": 553,
+      "r": 0,
+      "fv": 0
+    }
+  }
+}
